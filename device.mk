@@ -23,10 +23,10 @@ PRODUCT_PACKAGES += \
     android.hardware.boot@1.0-service
 
 PRODUCT_PACKAGES += \
-    bootctrl.kalama
+    bootctrl.mt6983
 
 PRODUCT_STATIC_BOOT_CONTROL_HAL := \
-    bootctrl.kalama \
+    bootctrl.mt6983 \
     libgptutils \
     libz \
     libcutils
