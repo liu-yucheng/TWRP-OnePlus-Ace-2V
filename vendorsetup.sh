@@ -9,6 +9,6 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 #
 
-add_lunch_combo omni_ossi-user
-add_lunch_combo omni_ossi-userdebug
-add_lunch_combo omni_ossi-eng
+# add_lunch_combo twrp_ossi-user
+# add_lunch_combo twrp_ossi-userdebug
+# add_lunch_combo twrp_ossi-eng
