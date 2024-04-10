@@ -2,6 +2,8 @@
 
 TWRP android device tree for OnePlus Ace 2V / OnePlus Nord 3.
 
+# Copyright
+
 ```
 #
 # Copyright (C) 2024 The Android Open Source Project
